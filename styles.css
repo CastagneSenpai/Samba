@@ -1,5 +1,6 @@
 h1 {
   display: block;
+  border: 4px border helvetica;
   top: 40%;
   margin: 0px 1px 0px 70px;
   width: 80%; 
